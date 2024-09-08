@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 ## Hi👋, I'm Yujia Lou
 👀 I'm a data analyst who enjoys documenting her learning \
 📚 Currently learning AI/ML \
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/yujia-sharon-lou/)
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/yujia-sharon-lou/) \
+😽 I have a cat her name is Meimei \
+🌹 I plant roses
 
 
 ### Skills and Tools
